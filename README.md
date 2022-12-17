@@ -1,2 +1,4 @@
-# contracts4dom
-PHP - Document Object Model abstraction.
+# PHP - Document Object Model abstraction.
+This repository contains only interfaces.
+
+An implementation can be found at *[dom](https://github.com/reglue4php/dom)*
